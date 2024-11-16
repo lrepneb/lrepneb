@@ -9,7 +9,7 @@ I'm an collegiate software engineer with a passion for user-centered design and 
 
 ### About Me:  
 
-- 💼 Personal and professional experience in full-stack and platform engineering, with a focus on scalable, well-documented solutions.
+- 💼 Personal and professional experience in full-stack, software and platform engineering, with a focus on scalable, well-documented solutions.
 - 🔭 Currently exploring the intersection of technology, design, and social impact, focusing on how values can be intentionally embedded in technology to promote positive societal change.
 - 🧑‍🎓 Pursuing an BS in Information Science at Cornell University, expected graduation in May 2025.  
 - 💡 Passionate about user-centered design and creating technologies people actually want to use.
