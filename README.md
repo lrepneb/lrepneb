@@ -5,7 +5,7 @@
 ### Welcome to my GitHub!  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrepneb&label=Profile%20views&color=0e75b6&style=flat" alt="lrepneb" /> </p>  
 
-I'm an aspiring software engineer with a passion for user-centered design and data-driven solutions. Proficient in Java, Python, SQL, and React, I thrive in team environments, building impactful full-stack applications and optimizing data pipelines.
+I'm an collegiate software engineer with a passion for user-centered design and data-driven solutions. Proficient in Java, Python, SQL, and React, I love working with others of all experience on projects on all scales, building meaningful full-stack applications and optimizing data pipelines.
 
 ### About Me:  
 
@@ -46,5 +46,5 @@ I'm an aspiring software engineer with a passion for user-centered design and da
 
 ---
 
-Feel free to connect or explore my repositories to see more of my work! Let's innovate and build impactful technology together. 🌟  
+Feel free to connect or explore my repositories to see more of my work! Let's cook up tantilizing technology together. 🌟 
 
