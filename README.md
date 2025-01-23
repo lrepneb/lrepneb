@@ -5,7 +5,7 @@
 ### Welcome to my GitHub!  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lrepneb&label=Profile%20views&color=0e75b6&style=flat" alt="lrepneb" /> </p>  
 
-I'm an collegiate software engineer and tech enthusiast with a passion for user-centered design and data-driven solutions. Particularly Proficient in Python, SQL, and Typescript, I love working with others of all experience on projects of all scales, building meaningful full-stack applications and uncovering patterns in datasets.
+I'm an collegiate software engineer and tech enthusiast with a passion for user-centered design. Particularly Proficient in Python, SQL, and Typescript, I love working with others of all experience on projects of all scales, building meaningful full-stack applications and uncovering patterns in datasets.
 
 ### About Me:  
 
