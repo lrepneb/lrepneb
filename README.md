@@ -41,9 +41,6 @@ I'm a collegiate software engineer and tech enthusiast with a passion for user-c
 **[Tilly's Critter Command](https://dgacornell.itch.io/tillys-critter-command)**  
 - Developed an engaging gameplay experience with dynamic enemy AI and stylized UI.  
 
-**NBA Game Trends Analysis**  
-- Used statistical modeling to uncover drivers of modern basketball scoring trends.  
-
 ---
 
 Feel free to connect or explore my repositories to see more of my work! Let's cook up tantilizing technology together. 🌟 
