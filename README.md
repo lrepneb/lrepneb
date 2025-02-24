@@ -32,7 +32,7 @@ I'm a collegiate software engineer and tech enthusiast with a passion for user-c
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Projects:  
+### Some Projects Not Here:  
 
 **[TedFinds](http://4300showcase.infosci.cornell.edu:5206/)**  
 - Implemented document retrieval using similarity measures and relevance feedback.  
